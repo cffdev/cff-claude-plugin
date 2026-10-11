@@ -1,0 +1,11 @@
+{
+  "name": "cashflowfrog",
+  "displayName": "Cash Flow Frog",
+  "version": "1.0.0",
+  "description": "Cash flow tracking, analysis, scenario planning, and reporting for Xero and QuickBooks users — powered by Cash Flow Frog and live accounting data.",
+  "author": {
+    "name": "Cash Flow Frog",
+    "url": "https://cashflowfrog.com"
+  },
+  "license": "MIT"
+}

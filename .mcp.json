@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cashflowfrog": {
+      "type": "http",
+      "url": "https://mcp.cashflowfrog.com/mcp"
+    }
+  }
+}
