@@ -2,13 +2,13 @@
   "name": "cashflowfrog",
   "version": "1.0.0",
   "displayName": "Cash Flow Frog",
-  "category": "Finance",
   "description": "AI-powered cash flow analysis",
   "author": {
     "name": "Cash Flow Frog",
     "url": "https://cashflowfrog.com"
   },
   "license": "MIT",
+  "privacyPolicyUrl": "https://cashflowfrog.com/privacy-policy",
   "listing": {
     "developerName": "Cash Flow Frog",
     "shortDescription": "Live cash flow for your AI",
