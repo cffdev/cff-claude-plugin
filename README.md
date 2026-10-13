@@ -5,7 +5,7 @@ Connect Claude to [Cash Flow Frog](https://cashflowfrog.com) for intelligent cas
 ## Prerequisites
 
 - An active Cash Flow Frog account ([sign up at accounts.cashflowfrog.com/signup](https://accounts.cashflowfrog.com/signup))
-- At least one company configured with a connected accounting integration (Xero or QuickBooks Online)
+- At least one company configured with a connected accounting integration (Xero, QuickBooks Online, QuickBooks Desktop, Sage Intacct, Odoo, Zoho Books, FreshBooks, or Plaid)
 
 ## What You Can Do
 
@@ -47,7 +47,7 @@ Claude handles multi-step workflows automatically and will ask for clarification
 
 ## Notes
 
-- **Data freshness:** Data is synced from your accounting software (Xero or QuickBooks Online). If your forecast looks stale, ask Claude to check your integration status or trigger a sync.
+- **Data freshness:** Data is synced from your connected accounting software. If your forecast looks stale, ask Claude to check your integration status or trigger a sync.
 - **Account categories:** Cash flow categories ("Account Types") control how accounts are grouped in reports. Ask Claude to review or update your account mappings if categories look incorrect.
 - **Scenarios:** Every forecast runs against a scenario. Your main scenario is the one marked as active. New scenarios let you model changes without affecting your base forecast.
 
