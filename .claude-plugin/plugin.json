@@ -8,7 +8,12 @@
     "url": "https://cashflowfrog.com"
   },
   "license": "MIT",
+  "homepage": "https://cashflowfrog.com",
+  "documentationUrl": "https://help.cashflowfrog.com",
+  "supportUrl": "https://help.cashflowfrog.com",
   "privacyPolicyUrl": "https://cashflowfrog.com/privacy-policy",
+  "termsOfServiceUrl": "https://cashflowfrog.com/terms-conditions",
+  "repository": "https://github.com/cashflowfrog/cff-mcp-server",
   "listing": {
     "developerName": "Cash Flow Frog",
     "shortDescription": "Live cash flow for your AI",
