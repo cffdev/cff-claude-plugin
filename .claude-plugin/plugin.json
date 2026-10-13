@@ -14,9 +14,13 @@
     "shortDescription": "Live cash flow for your AI",
     "longDescription": "Cash Flow Frog connects your accounting data to AI, giving you real-time cash flow intelligence through natural conversation.\n\nAsk plain-English questions about your finances and take action directly — no switching between dashboards, no exporting to spreadsheets.\n\nCASH POSITION & FORECASTING\nGet your current bank balance, 30/60/90-day projections, and the first date your balance could go negative. Scan for risk periods across your full forecast horizon, or pull a complete per-period timeline combining actuals with projected bills and invoices.\n\nCASH FLOW ANALYSIS\nBreak down inflows and outflows by category, customer, vendor, department, project, or location. Drill into individual groups to see who's driving the numbers. Compare actual performance against your budget with variance analysis by category.\n\nACCOUNTS RECEIVABLE\nSee all open invoices with expected collection dates and overdue balances. View open estimates and sales orders for the full receivables picture. Reschedule individual invoices or bulk-update collection dates to keep your forecast accurate.\n\nACCOUNTS PAYABLE\nTrack outstanding bills, upcoming payment obligations, and open purchase orders. Push payment dates out to model cash deferral scenarios without touching your accounting system.\n\nSCENARIO PLANNING\nCreate named scenarios and model the impact of new hires, leases, revenue streams, or one-off events. Add recurring income and expense projections, then compare scenarios side-by-side over any period.\n\nREPORTING\nGenerate a PDF cash flow report with charts in a single step. Export custom Excel or CSV reports for any date range.\n\nACCOUNT SETUP\nView your full chart of accounts, see which are unmapped, and assign accounts to cash flow categories to keep reports accurate.\n\nRequires an active Cash Flow Frog account connected to one of the supported accounting integrations: Xero, QuickBooks Online, QuickBooks Desktop, Sage Intacct, Odoo, Zoho Books, FreshBooks, or Plaid.",
     "website": "https://cashflowfrog.com",
+    "websiteURL": "https://cashflowfrog.com",
     "support": "https://help.cashflowfrog.com",
+    "supportURL": "https://help.cashflowfrog.com",
     "privacyPolicy": "https://cashflowfrog.com/privacy-policy",
+    "privacyPolicyURL": "https://cashflowfrog.com/privacy-policy",
     "terms": "https://cashflowfrog.com/terms-conditions",
+    "termsOfServiceURL": "https://cashflowfrog.com/terms-conditions",
     "starterPrompts": [
       "What's my current cash position and when could my balance go negative?",
       "Show my cash flow breakdown by category for the last 3 months",
