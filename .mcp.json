@@ -1,5 +1,4 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
   "mcpServers": {
     "cashflowfrog": {
       "type": "streamable-http",
@@ -9,8 +8,7 @@
           "auth": {
             "type": "oauth",
             "client": {
-              "mode": "dcr",
-              "tokenEndpointAuthMethod": "none"
+              "mode": "dcr"
             },
             "authorizationUrl": "https://accounts.cashflowfrog.com/auth/authorize",
             "tokenUrl": "https://accounts.cashflowfrog.com/auth/token",
