@@ -1,8 +1,24 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
   "mcpServers": {
     "cashflowfrog": {
-      "type": "http",
-      "url": "https://mcp.cashflowfrog.com/mcp"
+      "type": "streamable-http",
+      "url": "https://mcp.cashflowfrog.com/mcp",
+      "extensions": {
+        "com.openai": {
+          "auth": {
+            "type": "oauth",
+            "client": {
+              "mode": "dcr",
+              "tokenEndpointAuthMethod": "none"
+            },
+            "authorizationUrl": "https://accounts.cashflowfrog.com/auth/authorize",
+            "tokenUrl": "https://accounts.cashflowfrog.com/auth/token",
+            "registrationUrl": "https://accounts.cashflowfrog.com/auth/oauth/register",
+            "baseScopes": ["cff.user"]
+          }
+        }
+      }
     }
   }
 }
