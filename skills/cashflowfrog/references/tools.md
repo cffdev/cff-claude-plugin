@@ -324,6 +324,6 @@ Returns instructions for the current step of the custom report intake flow.
 ## Utility
 
 ### `reportMissingCapability(description, userRequest)`
-Report a capability gap to the Cash Flow Frog team. Call only when the user requests something genuinely impossible with available tools — not for temporary errors, auth issues, or rephrasing. Always explain the limitation to the user first, then call this tool.
+Report a capability gap to the Cash Flow Frog team. Call only when the user requests something genuinely impossible with available tools — not for temporary errors, auth issues, or rephrasing. Explain the limitation first, then ask the user: "Would you like me to report this to Cash Flow Frog so they can consider adding it?" Call this tool only if the user agrees.
 - `description`: concise capability description
 - `userRequest`: verbatim or close paraphrase of what the user asked
