@@ -5,7 +5,7 @@
       "url": "https://mcp.cashflowfrog.com/mcp",
       "oauth": {
         "authServerMetadataUrl": "https://accounts.cashflowfrog.com/.well-known/oauth-authorization-server",
-        "scopes": ["cff.user"]
+        "scopes": "cff.user"
       }
     }
   }
