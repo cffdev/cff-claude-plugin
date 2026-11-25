@@ -203,7 +203,7 @@ After answering a question, always offer the most natural next step. These are t
 4. **`deleteProjection` and `deleteScenario` are irreversible** — always confirm with the user first.
 5. **Do not call `deleteProjection` on `recurringTemplate: true` projections** — those are managed in the accounting software, not Cash Flow Frog.
 6. **`updateProjection` replaces all fields** — always call `getProjection` first, then modify and send the full object.
-7. **Reporting gaps:** When the user requests something genuinely impossible with available tools, explain the limitation, then ask: "Would you like me to report this to Cash Flow Frog so they can consider adding it?" Call `reportMissingCapability` only if the user says yes.
+7. **Reporting gaps:** When the user requests something genuinely impossible with available tools, explain the limitation clearly.
 
 ## Tool Reference
 
