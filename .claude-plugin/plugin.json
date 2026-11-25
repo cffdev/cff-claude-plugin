@@ -14,15 +14,5 @@
   "privacyPolicyUrl": "https://cashflowfrog.com/privacy-policy",
   "termsOfServiceUrl": "https://cashflowfrog.com/terms-conditions",
   "repository": "https://github.com/cashflowfrog/cff-mcp-server",
-  "icon": "assets/logo.png",
-  "composerIcon": "assets/composer-icon.png",
-  "starterPrompts": [
-    "What's my current cash position and when could my balance go negative?",
-    "Show my cash flow breakdown by category for the last 3 months",
-    "Which of my invoices are overdue and what's the total outstanding?"
-  ],
-  "brandColors": {
-    "light": "#005841",
-    "dark": "#00875A"
-  }
+  "icon": "assets/logo.png"
 }
